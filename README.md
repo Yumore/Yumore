@@ -15,7 +15,7 @@
 
 ## 📚 All Skills
 
-![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,twitter,stackoverflow,figma,vscode,idea,html,css,nodejs,python,java,react,vue,maven,redis,mysql,fastapi,md,regex,linux,bash,nginx,jenkins,dart,flutter,gradle,kotlin,sqlite)
+![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,twitter,stackoverflow,figma,vscode,idea,nodejs,python,java,react,maven,redis,mysql,fastapi,md,regex,linux,bash,nginx,jenkins,dart,flutter,gradle,kotlin,sqlite)
 
 
 ## 💻 Activity Graph
