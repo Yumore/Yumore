@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Yumore [Yumore's Blog](https://yumore.github.io)
+
 - 👀 I’m interested in ...
 
 - 🌱 I’m currently learning ...
@@ -6,11 +7,16 @@
 - 💞️ I’m looking to collaborate on ...
 
 - 📫 How to reach me - nathanwriting@126.com
-<!---
-![Yumore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yumore&count_private=true&&show_icons=true&theme=cobalt)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yumore&repo=github-readme-stats)](https://github.com/Yumore/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yumore&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
---->
+  <!---
+  ![Yumore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yumore&count_private=true&&show_icons=true&theme=cobalt)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yumore&repo=github-readme-stats)](https://github.com/Yumore/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yumore&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  --->
+
+## 📚 All Skills
+  
+![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,twitter,stackoverflow,figma,vscode,idea,atom,html,css,nodejs,python,java,react,vue,,maven,redis,mysql,fastapi,md,regex,linux,bash,nginx,jenkins,android,flutter)
+
 
 ## 💻 Activity Graph
 
