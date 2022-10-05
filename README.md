@@ -7,7 +7,7 @@
 
 - 📫 How to reach me - nathanwriting@126.com
 
-![Yumore's Blog](https://yumore.github.io)
+![](https://yumore.github.io)
 
 
 ![Yumore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yumore&count_private=true&&show_icons=true&theme=cobalt)
